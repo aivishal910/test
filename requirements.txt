@@ -1,7 +1,5 @@
-gradio
 transformers
 transformers-stream-generator
-qwen-vl-utils
 torchvision
 torch
 huggingface_hub
@@ -10,3 +8,4 @@ accelerate
 pillow
 opencv-python
 av
+fastapi[standard]
